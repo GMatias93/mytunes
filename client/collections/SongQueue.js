@@ -2,11 +2,13 @@
 var SongQueue = Songs.extend({
 
   initialize: function(){
+    // this.playFirst();
+  // console.log(songData)
   },
 
   playFirst : function(){
     // this.trigger('playFirst', this);
-    // this.at[0].play();
+
   }
 
 });
